@@ -2,14 +2,6 @@ Report Estrazione Link da thisnot.business
 ===========================================
 
 Pagina Evento: https://thisnot.business/player.php?id=SportF1_IT
-  Dettagli: Categoria='FORMULA 1', Evento='13:30 Prove Libere (1)', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://mfp-alemod.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master_stereo.mpd%3F%26ck%3DMDAzNmE5NmI2YmJiZjE4Mjg0ODhmOTBlNmIyY2ExZjQ6ZDI0ZTZhZTkyNmU4OGY4MzAzYjY5MjYyNzFmZjgxNTU%3D&key_id=0036a96b6bbbf1828488f90e6b2ca1f4&key=d24e6ae926e88f8303b6926271ff8155
-
-Pagina Evento: https://thisnot.business/player.php?id=SportF1_IT
-  Dettagli: Categoria='FORMULA 1', Evento='17:00 Prove Libere (2)', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://mfp-alemod.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master_stereo.mpd%3F%26ck%3DMDAzNmE5NmI2YmJiZjE4Mjg0ODhmOTBlNmIyY2ExZjQ6ZDI0ZTZhZTkyNmU4OGY4MzAzYjY5MjYyNzFmZjgxNTU%3D&key_id=0036a96b6bbbf1828488f90e6b2ca1f4&key=d24e6ae926e88f8303b6926271ff8155
-
-Pagina Evento: https://thisnot.business/player.php?id=SportF1_IT
   Dettagli: Categoria='FORMULA 1', Evento='12:30 Prove Libere (3)', Canale='Sky Sport'
   Stato Estrazione: OK - Proxy generato: https://mfp-alemod.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master_stereo.mpd%3F%26ck%3DMDAzNmE5NmI2YmJiZjE4Mjg0ODhmOTBlNmIyY2ExZjQ6ZDI0ZTZhZTkyNmU4OGY4MzAzYjY5MjYyNzFmZjgxNTU%3D&key_id=0036a96b6bbbf1828488f90e6b2ca1f4&key=d24e6ae926e88f8303b6926271ff8155
 
@@ -182,10 +174,6 @@ Pagina Evento: https://thisnot.business/player.php?id=SportNBA_IT
   Stato Estrazione: OK - Proxy generato: https://mfp-alemod.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear308-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd&key_id=00364eac2ffee337640e39682439b540&key=0960172d9000c470ade0658bd36c1d53
 
 Pagina Evento: https://thisnot.business/player.php?id=Eurosport2_IT
-  Dettagli: Categoria='BASKET', Evento='20:45 Trapani Shark v Germani Brescia (Gara 1)', Canale='Eurosport 2'
-  Stato Estrazione: OK - Proxy generato: https://mfp-alemod.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear312-it-dash1-prd.selector.skycdn.it/016a/31150/FHD/eurosport2/master_stereo.mpd%3F%26ck%3DeyIwMDM2NzBhNzAzNDM0MmE0YTA3YzkxMTczODE4YzYxYyI6IjdiOTAwNTVjMWExZWEzNGQ5MDkwZTllYmY2YzRkYjhhIn0%3D&key_id=003670a7034342a4a07c91173818c61c&key=7b90055c1a1ea34d9090e9ebf6c4db8a
-
-Pagina Evento: https://thisnot.business/player.php?id=Eurosport2_IT
   Dettagli: Categoria='BASKET', Evento='19:00 Virtus Bologna v EA7 Milano (Gara 1)', Canale='Eurosport 2'
   Stato Estrazione: OK - Proxy generato: https://mfp-alemod.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear312-it-dash1-prd.selector.skycdn.it/016a/31150/FHD/eurosport2/master_stereo.mpd%3F%26ck%3DeyIwMDM2NzBhNzAzNDM0MmE0YTA3YzkxMTczODE4YzYxYyI6IjdiOTAwNTVjMWExZWEzNGQ5MDkwZTllYmY2YzRkYjhhIn0%3D&key_id=003670a7034342a4a07c91173818c61c&key=7b90055c1a1ea34d9090e9ebf6c4db8a
 
@@ -206,10 +194,6 @@ Pagina Evento: https://thisnot.business/player.php?id=SportNBA_IT
   Stato Estrazione: OK - Proxy generato: https://mfp-alemod.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear308-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd&key_id=00364eac2ffee337640e39682439b540&key=0960172d9000c470ade0658bd36c1d53
 
 Pagina Evento: https://thisnot.business/player.php?id=Eurosport2_IT
-  Dettagli: Categoria='BASKET', Evento='20:45 Trapani Shark v Germani Brescia (Gara 1)', Canale='Eurosport 2'
-  Stato Estrazione: OK - Proxy generato: https://mfp-alemod.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear312-it-dash1-prd.selector.skycdn.it/016a/31150/FHD/eurosport2/master_stereo.mpd%3F%26ck%3DeyIwMDM2NzBhNzAzNDM0MmE0YTA3YzkxMTczODE4YzYxYyI6IjdiOTAwNTVjMWExZWEzNGQ5MDkwZTllYmY2YzRkYjhhIn0%3D&key_id=003670a7034342a4a07c91173818c61c&key=7b90055c1a1ea34d9090e9ebf6c4db8a
-
-Pagina Evento: https://thisnot.business/player.php?id=Eurosport2_IT
   Dettagli: Categoria='BASKET', Evento='19:00 Virtus Bologna v EA7 Milano (Gara 1)', Canale='Eurosport 2'
   Stato Estrazione: OK - Proxy generato: https://mfp-alemod.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear312-it-dash1-prd.selector.skycdn.it/016a/31150/FHD/eurosport2/master_stereo.mpd%3F%26ck%3DeyIwMDM2NzBhNzAzNDM0MmE0YTA3YzkxMTczODE4YzYxYyI6IjdiOTAwNTVjMWExZWEzNGQ5MDkwZTllYmY2YzRkYjhhIn0%3D&key_id=003670a7034342a4a07c91173818c61c&key=7b90055c1a1ea34d9090e9ebf6c4db8a
 
@@ -228,10 +212,6 @@ Pagina Evento: https://thisnot.business/player.php?id=SportNBA_IT
 Pagina Evento: https://thisnot.business/player.php?id=SportNBA_IT
   Dettagli: Categoria='BASKET', Evento='02:30 Oklahoma City Thunder v Pacers/Knicks', Canale='Sky Sport'
   Stato Estrazione: OK - Proxy generato: https://mfp-alemod.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear308-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd&key_id=00364eac2ffee337640e39682439b540&key=0960172d9000c470ade0658bd36c1d53
-
-Pagina Evento: https://thisnot.business/player.php?id=Eurosport2_IT
-  Dettagli: Categoria='BASKET', Evento='20:45 Trapani Shark v Germani Brescia (Gara 1)', Canale='Eurosport 2'
-  Stato Estrazione: OK - Proxy generato: https://mfp-alemod.onrender.com/proxy/mpd/manifest.m3u8?d=https://linear312-it-dash1-prd.selector.skycdn.it/016a/31150/FHD/eurosport2/master_stereo.mpd%3F%26ck%3DeyIwMDM2NzBhNzAzNDM0MmE0YTA3YzkxMTczODE4YzYxYyI6IjdiOTAwNTVjMWExZWEzNGQ5MDkwZTllYmY2YzRkYjhhIn0%3D&key_id=003670a7034342a4a07c91173818c61c&key=7b90055c1a1ea34d9090e9ebf6c4db8a
 
 Pagina Evento: https://thisnot.business/player.php?id=Eurosport2_IT
   Dettagli: Categoria='BASKET', Evento='19:00 Virtus Bologna v EA7 Milano (Gara 1)', Canale='Eurosport 2'
