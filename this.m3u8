@@ -4,9 +4,6 @@
 https://userdoroth-alezmfp2.hf.space/proxy/mpd/manifest.m3u8?d=https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master_stereo.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665
 
 #EXTINF:-1 tvg-id="Rai1" tvg-name="SERIE C PLAYOFF, FINALE - ITALIA SABATO 7 GIUGNO (Ritorno) 20:45 Norvegia - Italia" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Rai (TN)
-https://userdoroth-alezmfp2.hf.space/proxy/hls/manifest.m3u8?d=https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Rai1x" tvg-name="SERIE C PLAYOFF, FINALE - ITALIA SABATO 7 GIUGNO (Ritorno) 20:45 Norvegia - Italia" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Rai (TN)
 https://userdoroth-alezmfp2.hf.space/proxy/mpd/manifest.m3u8?d=https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 
 #EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport UNO" tvg-logo="https://thisnot.business/loghi/logo.png" group-title="Sport;ThisNot", Sky Sport UNO (TN)

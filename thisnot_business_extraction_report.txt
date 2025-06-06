@@ -7,14 +7,10 @@ Pagina Evento: https://thisnot.business/player.php?id=SportCalcio_IT
 
 Pagina Evento: https://thisnot.business/player.php?id=Rai1
   Dettagli: Categoria='CALCIO', Evento='20:45 Norvegia - Italia', Canale='Rai'
-  Stato Estrazione: OK - Proxy generato: https://userdoroth-alezmfp2.hf.space/proxy/hls/manifest.m3u8?d=https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-
-Pagina Evento: https://thisnot.business/player.php?id=Rai1x
-  Dettagli: Categoria='CALCIO', Evento='20:45 Norvegia - Italia', Canale='Rai'
   Stato Estrazione: OK - Proxy generato: https://userdoroth-alezmfp2.hf.space/proxy/mpd/manifest.m3u8?d=https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 
 Pagina Evento: https://thisnot.business/player.php?id=SportUno_IT
-  Dettagli: Categoria='CALCIO', Evento='20:45 Norvegia - Italia', Canale='Sky Sport'
+  Dettagli: Categoria='CALCIO', Evento='20:45 North Macedonia - Belgio', Canale='Sky Sport'
   Stato Estrazione: OK - Proxy generato: https://userdoroth-alezmfp2.hf.space/proxy/mpd/manifest.m3u8?d=https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd%3F%26ck%3DMDAzNmFhYTFkNjhjNmI0ODdlMjlhNWNiMDgwYThhMjg6YTNlOGRiM2ZmM2M4NzZmN2I0M2E5NjFiNjRhNjM0NzQ%3D&key_id=0036aaa1d68c6b487e29a5cb080a8a28&key=a3e8db3ff3c876f7b43a961b64a63474
 
 Pagina Evento: https://thisnot.business/player.php?id=SportCalcio_IT
@@ -55,14 +51,10 @@ Pagina Evento: https://thisnot.business/player.php?id=SportCalcio_IT
 
 Pagina Evento: https://thisnot.business/player.php?id=Rai1
   Dettagli: Categoria='CALCIO', Evento='20:45 Norvegia - Italia', Canale='Rai'
-  Stato Estrazione: OK - Proxy generato: https://userdoroth-alezmfp2.hf.space/proxy/hls/manifest.m3u8?d=https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-
-Pagina Evento: https://thisnot.business/player.php?id=Rai1x
-  Dettagli: Categoria='CALCIO', Evento='20:45 Norvegia - Italia', Canale='Rai'
   Stato Estrazione: OK - Proxy generato: https://userdoroth-alezmfp2.hf.space/proxy/mpd/manifest.m3u8?d=https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 
 Pagina Evento: https://thisnot.business/player.php?id=SportUno_IT
-  Dettagli: Categoria='CALCIO', Evento='20:45 Norvegia - Italia', Canale='Sky Sport'
+  Dettagli: Categoria='CALCIO', Evento='20:45 North Macedonia - Belgio', Canale='Sky Sport'
   Stato Estrazione: OK - Proxy generato: https://userdoroth-alezmfp2.hf.space/proxy/mpd/manifest.m3u8?d=https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd%3F%26ck%3DMDAzNmFhYTFkNjhjNmI0ODdlMjlhNWNiMDgwYThhMjg6YTNlOGRiM2ZmM2M4NzZmN2I0M2E5NjFiNjRhNjM0NzQ%3D&key_id=0036aaa1d68c6b487e29a5cb080a8a28&key=a3e8db3ff3c876f7b43a961b64a63474
 
 Pagina Evento: https://thisnot.business/player.php?id=SportCalcio_IT

@@ -12,18 +12,6 @@
     }
   },
   "https://thisnot.business/player.php?id=Rai1": {
-    "proxy_url": "https://userdoroth-alezmfp2.hf.space/proxy/hls/manifest.m3u8?d=https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8",
-    "info": {
-      "category": "CALCIO",
-      "title": "SERIE C PLAYOFF, FINALE - ITALIA",
-      "date": "SABATO 7 GIUGNO (Ritorno)",
-      "event": "20:45 Norvegia - Italia",
-      "channel": "Rai",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=Rai1"
-    }
-  },
-  "https://thisnot.business/player.php?id=Rai1x": {
     "proxy_url": "https://userdoroth-alezmfp2.hf.space/proxy/mpd/manifest.m3u8?d=https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd",
     "info": {
       "category": "CALCIO",
@@ -32,7 +20,7 @@
       "event": "20:45 Norvegia - Italia",
       "channel": "Rai",
       "language": "it",
-      "url": "https://thisnot.business/player.php?id=Rai1x"
+      "url": "https://thisnot.business/player.php?id=Rai1"
     }
   },
   "https://thisnot.business/player.php?id=SportUno_IT": {
